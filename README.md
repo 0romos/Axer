@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/0romos/Axer">
-    <img src="https://media.discordapp.net/attachments/1115614887658410085/1141340196995092480/Axer.png" alt="Logo" width="100" height="100">
+    <img src="https://media.discordapp.net/attachments/1202805721696313385/1202805776041771088/AxerLog.png?ex=65cecb2c&is=65bc562c&hm=472e1e487e1d794bab35ad8df0bc93ecd1c36120592e1345c3dc5cedb29851e8&=&format=webp&quality=lossless&width=675&height=675" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Axer</h3>
@@ -47,7 +47,8 @@
 
 Axer is a straightforward yet effective Python-based framework tailored to simplify the process of working with digital exploits. This lightweight program is designed to offer users a user-friendly and accessible approach to managing and deploying exploits, catering to both novice and experienced users.
 
-![image](https://github.com/0romos/Axer/assets/138330732/9e55f905-3d28-46f7-b9c1-66d2a8e6c4c2)
+![image](https://github.com/0romos/Axer/assets/138330732/545c407d-1a38-4779-a402-079828b762a6)
+
 
 
 Axer is your passport to a customized exploit framework, enhancing the capabilities of your Banner Project Repository. Remember, ethical and responsible use of such tools is paramount. Ensure they are harnessed only for authorized and legitimate security testing purposes.
